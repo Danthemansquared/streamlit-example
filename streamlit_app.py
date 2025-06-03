@@ -9,8 +9,8 @@ if 'materials' not in st.session_state:
 
 MATERIAL_OPTIONS = [
     "Piedra Caliza",
-    "Durmientes de Madera",
-    "Malla de Acero",
+    "Durmientes",
+    "Malla de Gavión",
 ]
 
 st.header("Add a new material")

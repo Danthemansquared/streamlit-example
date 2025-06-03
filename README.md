@@ -4,8 +4,8 @@ This Streamlit app allows you to track materials in stock. Materials are chosen
 from a small predefined list:
 
 * Piedra Caliza
-* Durmientes de Madera
-* Malla de Acero
+* Durmientes
+* Malla de Gavión
 
 You can:
 
